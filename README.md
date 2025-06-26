@@ -27,7 +27,7 @@ Profecheck TFG Sebastián Catalán
 
 ## 📂 Project Structure
 
-
+```
 profecheck/
 ├── api/                  # REST API endpoints
 ├── css/                  # Custom stylesheets
@@ -38,7 +38,7 @@ profecheck/
 ├── profecheck.sql        # Database schema
 ├── index.php             # Landing/login page
 └── README.md
-
+```
 
 
 ## ⚙️ Installation
